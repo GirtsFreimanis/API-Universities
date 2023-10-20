@@ -1,0 +1,17 @@
+{
+  "name": "lietotajs/api-universities",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "GirtsFreimanis",
+      "email": "girtslp@gmail.com"
+    }
+  ],
+  "require": {
+    "geerlingguy/ping": "^1.2"
+  }
+}
